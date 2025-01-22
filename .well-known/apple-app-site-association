@@ -5,8 +5,8 @@
             {
                 "appID": "9434T587C9.com.test.UniversalLinksApp",
                 "paths": [
-                    "!/order",      // Handle the `/order` path in the app
-                    "/*"           // Handle all other paths (optional)
+                    "!/order",     
+                    "/*"
                 ]
             }
         ]
