@@ -4,7 +4,6 @@
             {
                 "appID": "9434T587C9.com.test.UniversalLinksApp",
                 "paths": [
-                    "!/order",    // Exclude `/order` from opening in the app
                     "/*"          // Handle all other paths in the app
                 ]
             }
