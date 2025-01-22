@@ -3,7 +3,7 @@
         "details": [
             {
                 "appID": "9434T587C9.com.test.UniversalLinksApp",
-                "paths": "paths": [
+                "paths": [
                     "!/order",    // Exclude `/order` from opening in the app
                     "/*"          // Handle all other paths in the app
                 ]
